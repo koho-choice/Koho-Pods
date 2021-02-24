@@ -1,0 +1,6 @@
+framework module Pods_Final_Koho {
+  umbrella header "Pods-Final Koho-umbrella.h"
+
+  export *
+  module * { export * }
+}
